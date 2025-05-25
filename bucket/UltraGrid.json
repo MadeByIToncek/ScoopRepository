@@ -8,7 +8,7 @@
         }
     },
     "homepage": "https://www.ultragrid.cz/",
-    "bin": "uv",
+    "bin": "uv.exe",
     "checkver": {
         "github": "https://github.com/CESNET/UltraGrid"
     },
