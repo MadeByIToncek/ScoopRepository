@@ -1,7 +1,7 @@
 {
     "version": "1.9.10",
     "license": "BSD",
-    "architecture": "64bit",
+    "architecture": ["64bit"],
     "extract_dir": "UltraGrid-1.9.10-win64",
     "url": "https://github.com/CESNET/UltraGrid/releases/download/v1.9.10/UltraGrid-1.9.10-win64.zip",
     "homepage": "https://www.ultragrid.cz/",
